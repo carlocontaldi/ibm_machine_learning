@@ -1,0 +1,1 @@
+The goal of this delivery is to complete and extend IBM Jupyter notebooks about Recommender Systems (please find in project) and convey related analysis and results in a presentation, which constitutes the core output of this Capstone Machine Learning project.
